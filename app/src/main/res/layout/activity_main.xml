@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible"
+        tools:visibility="visible"
+        android:background="@drawable/pay">
+
+
+        <TextView
+            android:id="@+id/textView"
+            style="@android:style/Widget.Material.TextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="120dp"
+            android:fontFamily="@font/pacificoregular"
+            android:text="paysito de chocolate "
+            android:textAlignment="center"
+            android:textColor="#000"
+            android:textSize="15sp"
+            android:textStyle="bold|italic"
+            android:typeface="monospace" />
+
+    </FrameLayout>
+</LinearLayout>
