@@ -19,3 +19,16 @@
 | **Nombre**  |  **Tarea 3.** *Estilización para wearables que incluya tipografía <br> uso de imágenes e implementación de efectos y/o animaciones* |
 | **Descripción**  | Creación de una aplicación para un dispositivo portátil que muestra una imagen y un texto con animación. En esta práctica realizada en Android Studio, se desarrolló una aplicación para un dispositivo portátil que muestra una imagen y un texto con animación. A continuación, se describe el proceso para llevar a cabo un cabo de esta tarea. |
 |  **Fecha de Carga** | 26/05/23  |
+
+&nbsp;
+&nbsp;
+
+&nbsp;
+&nbsp;
+
+<br>
+<br>
+<br>
+<br>
+
+[![Imagen1-2.jpg](https://i.postimg.cc/x1swjyVj/Imagen1-2.jpg)](https://postimg.cc/0zwWcSNh)
